@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.png" alt="KYC Central" width="800" />
+  <img src="../assets/header.png" alt="KYC Central" width="800" />
 </p>
 
 # KYC Central Ltd
@@ -47,6 +47,6 @@ A few things you won't see from us, and why:
 ---
 
 <p align="center">
-  <img src="assets/site_icon_with_background_square.png" alt="KYC Central" width="64" /><br />
+  <img src="../assets/site_icon_with_background_square.png" alt="KYC Central" width="64" /><br />
   KYC Central Ltd · Company No. 17405668 · Registered office: 71-75 Shelton Street, Covent Garden, London, WC2H 9JQ, United Kingdom
 </p>
